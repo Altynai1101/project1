@@ -1,6 +1,6 @@
 ### Altynai Begimbaeva 01.11.1999
 ---
-# baltynai762@gmail.com 
+[ baltynai762@gmail.com 
 # programming languages, draw 
 > <section id="screen">
     <div class="container">
