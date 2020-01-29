@@ -1,7 +1,12 @@
 # Altynai Begimbaeva 01.11.1999
 ---
 ###### baltynai762@gmail.com 
-###### programming languages, draw 
+* Artist
+* Photographer
+* I work as a barista at a Hygge coffee house
+* IT-RUN course
+* Art college named after Chuikov 
+* I speak english 40/70 
 
 > <section id="screen">
     <div class="container">
@@ -53,14 +58,3 @@
 </section>
 
 
-Skills | Skills
------------- | -------------
-I work as a barista at a Hygge coffee house | IT-RUN course
-Art college named after Chuikov  | I speak english 40/70 
-
-#Skills
-* I work as a barista at a Hygge coffee house
-* IT-RUN course
-* Art college named after Chuikov 
-* I speak english 40/70 
- 
