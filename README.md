@@ -51,9 +51,14 @@
 
     </div>
 </section>
-### i work as a barista at a Hygge coffee house |  IT-RUN course, art college named after Chuikov
+### i work as a barista at a Hygge coffee house
 ### IT-RUN course, art college named after Chuikov 
 ### i speak english 40/70 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 
