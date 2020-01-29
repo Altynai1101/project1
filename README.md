@@ -51,11 +51,9 @@
 
     </div>
 </section>
-### i work as a barista at a Hygge coffee house
-### IT-RUN course, art college named after Chuikov 
-### i speak english 40/70 
 
 
+Skills | Skills
 ------------ | -------------
 I work as a barista at a Hygge coffee house | IT-RUN course
 Art college named after Chuikov  | I speak english 40/70 
