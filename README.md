@@ -2,7 +2,7 @@
 ---
 ###### baltynai762@gmail.com 
 ###### programming languages, draw 
-###### my code examples
+
 > <section id="screen">
     <div class="container">
 
@@ -51,7 +51,7 @@
 
     </div>
 </section>
-### i work as a barista at a Hygge coffee house 
+### i work as a barista at a Hygge coffee house |  IT-RUN course, art college named after Chuikov
 ### IT-RUN course, art college named after Chuikov 
 ### i speak english 40/70 
 
