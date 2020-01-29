@@ -1,4 +1,4 @@
-# Altynai Begimbaeva 01.11.1999
+# Altynai Begimbaeva
 ---
 ###### baltynai762@gmail.com 
 * Artist
